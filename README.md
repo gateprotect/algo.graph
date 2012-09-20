@@ -1,4 +1,6 @@
 algo.graph
 ==========
 
- Basic Graph Theory Algorithms from clojure.contrib.graph
+ Basic Graph Theory Algorithms (formerly clojure.contrib.graph)
+ 
+ 
