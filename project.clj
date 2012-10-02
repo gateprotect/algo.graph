@@ -1,4 +1,4 @@
-(defproject gateprotect/algo.graph "1.0.0"
+(defproject com.gateprotect/algo.graph "1.0.0"
   :description " Basic Graph Theory Algorithms (formerly clojure.contrib.graph)"
   :url "https://github.com/gateprotect/algo.graph"
   :license {:name "Eclipse Public License"
